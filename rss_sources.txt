@@ -1,0 +1,27 @@
+# Working RSS Sources (Verified)
+# Last updated: 2024-12-19
+
+# Slickdeals - Verified Working
+https://slickdeals.net/newsearch.php?searcharea=deals&rss=1&forumchoice[]=9
+https://slickdeals.net/newsearch.php?searcharea=deals&rss=1&forumchoice[]=4
+https://slickdeals.net/newsearch.php?searcharea=deals&rss=1&forumchoice[]=30
+https://slickdeals.net/newsearch.php?searcharea=deals&rss=1&forumchoice[]=2
+
+# Tech Bargains - Verified Working (600+ entries)
+https://www.techbargains.com/rss.xml
+
+# Reddit Deals - Verified Working
+https://www.reddit.com/r/deals/.rss
+https://www.reddit.com/r/buildapcsales/.rss
+https://www.reddit.com/r/gamedeals/.rss
+https://www.reddit.com/r/consoledeals/.rss
+
+# DealCatcher - Verified Working
+https://www.dealcatcher.com/rss
+
+# Additional Reliable Sources
+# FatWallet / Rakuten (may need special handling)
+# https://www.rakuten.com/rss/deals.xml
+
+# Note: Many RSS sources have been tested and found to have parsing errors or timeouts.
+# Only verified working sources are included above.

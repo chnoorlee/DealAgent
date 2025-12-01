@@ -1,0 +1,319 @@
+[2025-10-29 15:03:55.164881] GPT evaluated deal: [AC] $9.89*: 15W INIU Magnetic Qi2 Certified Wireless Charging Pad w/ Cooling Fan at Amazon ($9.89) → GPT error: missing OPENAI_API_KEY.
+[2025-10-29 15:03:55.197591] GPT evaluated deal: IFEART 6-Ports up to 100W Charger Block (3x USB-C, 3x USB-A) w/ 5' Power cord $9.99 + Free Shipping w/ Prime or on $35+ ($9.99) → GPT error: missing OPENAI_API_KEY.
+[2025-10-29 15:03:55.218117] GPT evaluated deal: King of Horror: 9-Film Collection (HD, UHD) $19.99 xwyb 2 or more Warner Brothers Discovery $.99_+ movies ($19.99) → GPT error: missing OPENAI_API_KEY.
+[2025-10-29 15:03:55.236543] GPT evaluated deal: New Costco Members: 1-Year Costco Gold Star Membership + $40 Costco Shop Card for $65; 1-Year Costco Executive Membership + $60 Costco Shop Card foro $130 ($40.0) → GPT error: missing OPENAI_API_KEY.
+[2025-10-29 15:03:55.253372] GPT evaluated deal: Digital 4K/HD Movies: Twisted Tales - 2 or more starting at $4.99 - Fanflix ($4.99) → GPT error: missing OPENAI_API_KEY.
+[2025-10-29 15:12:30.648145] GPT evaluated deal: Kobalt 16 -Piece Metric or SAE 1/2-in Drive Set 6-point Impact Socket Set $39.98 at Lowe's ($39.98) → GPT error: missing OPENAI_API_KEY.
+[2025-10-29 15:12:30.668343] GPT evaluated deal: [S&S, AC] $12.58: 3 × 12-Pack 12-Oz Coke Zero Sugar Soda ($4.19 each) at Amazon ($12.58) → GPT error: missing OPENAI_API_KEY.
+[2025-10-29 15:12:30.688491] GPT evaluated deal: 5lbs. Hershey's Milk Chocolate Harry Potter - Snack Size Halloween Candy $20 + Free S/H ($20.0) → GPT error: missing OPENAI_API_KEY.
+[2025-10-29 15:12:30.703791] GPT evaluated deal: $14.17: Carhartt Men's Knit Cuffed Beanie at Amazon ($14.17) → GPT error: missing OPENAI_API_KEY.
+[2025-10-29 15:12:30.721432] GPT evaluated deal: $14.98*: CRAFTSMAN Metal Sawhorse (33.66" x 28.9", CMST11154) at Amazon ($14.98) → GPT error: missing OPENAI_API_KEY.
+[2025-10-29 15:12:55.687751] 📊 3D plot generated.
+[2025-10-29 15:26:03.173705] GPT evaluated deal: $35: Skechers Men's Gowalk Flex Hands Free Slip-ins Athletic Slip-on Casual Walking Shoes Sneaker at Amazon ($35.0) → GPT error: missing OPENAI_API_KEY.
+[2025-10-29 15:26:03.206859] GPT evaluated deal: Lenovo ThinkPad P16s Gen 4: 16" 4K+ OLED Touch, Ryzen AI 7 PRO 350, 64GB DDR5, 1TB SSD, Win 11 Pro $1429 ($1429.0) → GPT error: missing OPENAI_API_KEY.
+[2025-10-29 15:26:03.273871] GPT evaluated deal: Milwaukee 14-in-1 Ratcheting Multi-Bit Screwdriver and 8-in-1 Compact Multi-Bit Screwdriver (2-Pack) buy 5 save $30 buy 3 save $10 mix and match other tools $19.97 at Home Depot ($30.0) → GPT error: missing OPENAI_API_KEY.
+[2025-10-29 15:26:03.291360] GPT evaluated deal: Metaphor ReFantazio for Playstation 5 - On Clearance As Low As $20.99 @ Target - IN STORE ONLY - YMMV ($20.99) → GPT error: missing OPENAI_API_KEY.
+[2025-10-29 15:26:03.309917] GPT evaluated deal: eufy Security S220 SoloCam 2K Solar Wireless Outdoor Camera $59.99 + Free Shipping ($59.99) → GPT error: missing OPENAI_API_KEY.
+[LLM] Provider set to: gemini
+[LLM] Provider set to: gemini
+[LLM] Provider set to: gemini
+[LLM] Provider set to: openai
+[LLM] Provider set to: gemini
+[LLM] Provider set to: gemini
+[LLM] Provider set to: openai
+[LLM] Provider set to: gemini
+[LLM] Provider set to: openai
+[LLM] Provider set to: gemini
+[LLM] Provider set to: openai
+[LLM] Provider set to: gemini
+[LLM] Provider set to: openai
+[LLM] Provider set to: gemini
+[LLM] Provider set to: openai
+[LLM] Provider set to: gemini
+[LLM] Provider set to: openai
+[2025-10-29 16:05:16.937685] RAG Q:  → ⚠️ No top deals available to answer your question.
+[2025-10-29 16:05:17.559881] RAG Q:  → ⚠️ No top deals available to answer your question.
+[2025-10-29 16:05:17.746292] RAG Q:  → ⚠️ No top deals available to answer your question.
+[2025-10-29 16:05:18.122212] RAG Q:  → ⚠️ No top deals available to answer your question.
+[2025-10-29 16:05:18.432788] RAG Q:  → ⚠️ No top deals available to answer your question.
+[LLM] Provider set to: gemini
+[LLM] Provider set to: openai
+[LLM] Provider set to: gemini
+[LLM] Provider set to: openai
+[LLM] Provider set to: gemini
+[2025-10-29 16:07:01.793688] GPT evaluated deal: Pinmoco Ergonomic Adjustable Cross-Legged Swivel Chair w/ Footrest (Black) $90 + Free Shipping ($90.0) → LLM error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}} (set GEMINI_API_KEY or OPENAI_API_KEY).
+[2025-10-29 16:07:05.880384] GPT evaluated deal: Bambu Lab P1S 3D Printer AMS 2 Pro Combo: w/ Buffer $599, w/ Hub $619 + Free Shipping ($599.0) → LLM error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}} (set GEMINI_API_KEY or OPENAI_API_KEY).
+[2025-10-29 16:07:08.915345] GPT evaluated deal: Goliath Fire Tower Strategy Board Game for 2-4 Players $14.39 + Free Shipping w/ Target 360, Circle Card, or on $35+ ($14.39) → LLM error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}} (set GEMINI_API_KEY or OPENAI_API_KEY).
+[2025-10-29 16:07:12.076040] GPT evaluated deal: Handheld Mini Whisk Frother w/ Self-Stand (Black) $3.99 + Free Shipping w/ Prime or on $35+ ($3.99) → LLM error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}} (set GEMINI_API_KEY or OPENAI_API_KEY).
+[2025-10-29 16:07:14.646927] GPT evaluated deal: 6ft, 8ft Werner Ladders On Sale - Home Depot $69.88 ($69.88) → LLM error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}} (set GEMINI_API_KEY or OPENAI_API_KEY).
+[2025-10-29 16:08:27.260054] 📊 3D plot generated.
+[2025-10-29 19:08:16.783754] GPT evaluated deal: Refurbished Apple MacBook Air with Apple M1 Chip 13.3 8GB 128GB SSD Gold MGN63LL/A (late 2020 - $309.99 ($309.99) → LLM error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}} (set GEMINI_API_KEY or OPENAI_API_KEY).
+[2025-10-29 19:08:19.376261] GPT evaluated deal: Konpayde 180,000 RPM 3-Speed Cordless Electric Air Duster w/ 4 Nozzles $15.99 + Free Shipping w/ Prime or on $35+ ($15.99) → LLM error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}} (set GEMINI_API_KEY or OPENAI_API_KEY).
+[2025-10-29 19:08:22.975693] GPT evaluated deal: Lenovo ThinkPad P16s Gen 4: 16" 4K+ OLED Touch, Ryzen AI 7 PRO 350, 64GB DDR5, 1TB SSD, Win 11 Pro $1429 ($1429.0) → LLM error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}} (set GEMINI_API_KEY or OPENAI_API_KEY).
+[2025-10-29 19:08:25.493495] GPT evaluated deal: RIDGID 2-1/2 in. MAX2531 NXT Max Crevice Tool, Dusting Brush Shop Vacuum Attachments with Shoes for RIDGID NXT Wet Dry Vacs MAX2531 - The Home Depot $8.80 B&M YMMV ($8.8) → LLM error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}} (set GEMINI_API_KEY or OPENAI_API_KEY).
+[2025-10-29 19:08:28.203920] GPT evaluated deal: Hori Fighting Stick Alpha Fightstick (Xbox Series X|S) $119.99 + Free Shipping ($119.99) → LLM error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}} (set GEMINI_API_KEY or OPENAI_API_KEY).
+[2025-10-29 19:09:36.560609] RAG Q: what is the cheapest features? → LLM error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}} (set GEMINI_API_KEY or OPENAI_API_KEY).
+[LLM] Provider set to: openai
+[LLM] Provider set to: gemini
+[LLM] Provider set to: openai
+[LLM] Provider set to: gemini
+[LLM] Provider set to: openai
+[LLM] Provider set to: gemini
+[LLM] Provider set to: openai
+[LLM] Provider set to: openai
+[2025-10-29 20:11:56.336115] GPT evaluated deal: Bambu Lab P1S 3D Printer AMS 2 Pro Combo: w/ Buffer $599, w/ Hub $619 + Free Shipping ($599.0) → LLM error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}} (set GEMINI_API_KEY or OPENAI_API_KEY).
+[2025-10-29 20:11:59.424066] GPT evaluated deal: AceGolfs Women's UPF50+ Golf Attire Dress/Skorts/Tops/Pants from $15 + Free Shipping ($15.0) → LLM error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}} (set GEMINI_API_KEY or OPENAI_API_KEY).
+[2025-10-29 20:12:02.065421] GPT evaluated deal: [NEW CUSTOMER] Amazon Kindle 16GB $64.98 at QVC ($64.98) → LLM error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}} (set GEMINI_API_KEY or OPENAI_API_KEY).
+[2025-10-29 20:12:04.247556] GPT evaluated deal: Pinmoco Ergonomic Adjustable Cross-Legged Swivel Chair w/ Footrest (Black) $90 + Free Shipping ($90.0) → LLM error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}} (set GEMINI_API_KEY or OPENAI_API_KEY).
+[2025-10-29 20:12:06.494110] GPT evaluated deal: 5-Port 75W LMAV USB-C/A Car Charger Adapter (2 USB-C & 3 USB-A, Black) $3.99 + Free Shipping w/ Prime or on $35+ ($3.99) → LLM error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}} (set GEMINI_API_KEY or OPENAI_API_KEY).
+[2025-10-29 20:12:16.793191] GPT evaluated deal: 2-Count Cvijan Upholstered Armchair (Blue Polyester Blend) $79.99 + Free Shipping ($79.99) → LLM error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}} (set GEMINI_API_KEY or OPENAI_API_KEY).
+[2025-10-29 20:12:18.934347] GPT evaluated deal: Bambu Lab P1S 3D Printer AMS 2 Pro Combo: w/ Buffer $599, w/ Hub $619 + Free Shipping ($599.0) → LLM error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}} (set GEMINI_API_KEY or OPENAI_API_KEY).
+[2025-10-29 20:12:21.145470] GPT evaluated deal: AceGolfs Women's UPF50+ Golf Attire Dress/Skorts/Tops/Pants from $15 + Free Shipping ($15.0) → LLM error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}} (set GEMINI_API_KEY or OPENAI_API_KEY).
+[2025-10-29 20:12:24.045751] GPT evaluated deal: [NEW CUSTOMER] Amazon Kindle 16GB $64.98 at QVC ($64.98) → LLM error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}} (set GEMINI_API_KEY or OPENAI_API_KEY).
+[2025-10-29 20:12:26.331610] GPT evaluated deal: Pinmoco Ergonomic Adjustable Cross-Legged Swivel Chair w/ Footrest (Black) $90 + Free Shipping ($90.0) → LLM error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}} (set GEMINI_API_KEY or OPENAI_API_KEY).
+[LLM] Provider set to: gemini
+[LLM] Provider set to: openai
+[LLM] Provider set to: gemini
+[LLM] Provider set to: openai
+[LLM] Provider set to: gemini
+[LLM] Provider set to: openai
+[LLM] Provider set to: gemini
+[2025-10-29 20:15:51.588004] RAG Q: what is the cheapest feature?
+ → LLM error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}} (set GEMINI_API_KEY or OPENAI_API_KEY).
+[2025-10-29 20:16:35.695943] 📊 3D plot generated.
+[LLM] Provider set to: gemini
+[LLM] Provider set to: openai
+[LLM] Provider set to: gemini
+[LLM] Provider set to: openai
+[LLM] Provider set to: gemini
+[LLM] Provider set to: openai
+[LLM] Provider set to: openai
+[LLM] Provider set to: gemini
+[2025-10-29 20:23:48.337716] 📊 3D plot generated.
+[LLM] Provider set to: openai
+[LLM] Provider set to: openai
+[LLM] Provider set to: openai
+[LLM] Provider set to: openai
+[LLM] Provider set to: openai
+[LLM] Provider set to: openai
+[LLM] Provider set to: openai
+[LLM] Provider set to: openai
+[LLM] Provider set to: openai
+[LLM] Provider set to: deepseek
+[LLM] Provider set to: gemini
+[LLM] Provider set to: deepseek
+[LLM] Provider set to: openai
+[2025-11-12 20:08:00.109378] Deal evaluated: $85.49: Signature Design by Ashley Moriville Casual Rustic Upholstered Dining Bench, Grey & Brown at Amazon ($85.49) → OpenAI error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-11-12 20:08:03.946540] Deal evaluated: KMC 6-Outlet Surge Tap, 2 USB Ports (3.4A), 980 Joules Surge Protector, White (2 Pack) $9.49 ($9.49) → OpenAI error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-11-12 20:08:06.716001] Deal evaluated: PowerSpec G759 Gaming PC: Ryzen 7 9800X3D, RTX 5080, 64GB DDR5, 2TB SSD $2299.99 ($2299.99) → OpenAI error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[LLM] Provider set to: deepseek
+[2025-11-12 20:08:10.163646] Deal evaluated: Amazon Essentials Women's Short Sleeve Jersey Cotton Blend Plus Size V-Neck T-Shirt (Various) from $4.74 + Free Shipping w/ Prime or on $35+ ($4.74) → OpenAI error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-11-12 20:08:12.925271] Deal evaluated: Tron (1982) & Tron Legacy 4K Steelbooks - Free shipping - Walmart $39.99 ($39.99) → OpenAI error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[LLM] Provider set to: openai
+[2025-11-12 20:08:23.052622] Deal evaluated: $85.49: Signature Design by Ashley Moriville Casual Rustic Upholstered Dining Bench, Grey & Brown at Amazon ($85.49) → OpenAI error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-11-12 20:08:25.285410] Deal evaluated: KMC 6-Outlet Surge Tap, 2 USB Ports (3.4A), 980 Joules Surge Protector, White (2 Pack) $9.49 ($9.49) → OpenAI error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[LLM] Provider set to: gemini
+[LLM] Provider set to: deepseek
+[2025-11-12 20:08:27.368266] Deal evaluated: PowerSpec G759 Gaming PC: Ryzen 7 9800X3D, RTX 5080, 64GB DDR5, 2TB SSD $2299.99 ($2299.99) → OpenAI error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[LLM] Provider set to: gemini
+[2025-11-12 20:08:29.518484] Deal evaluated: Amazon Essentials Women's Short Sleeve Jersey Cotton Blend Plus Size V-Neck T-Shirt (Various) from $4.74-$5.53 + Free Shipping w/ Prime or on $35+ ($4.74) → OpenAI error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-11-12 20:08:31.722197] Deal evaluated: Tron (1982) & Tron Legacy 4K Steelbooks - Free shipping - Walmart $39.99 ($39.99) → Gemini error: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+[LLM] Provider set to: deepseek
+[2025-11-12 20:09:25.629680] 📊 3D plot generated.
+[2025-11-12 20:09:36.701227] 📥 Price history exported to price_data\all_deals_history.csv
+[2025-11-12 20:09:38.819576] 📥 Current deals analysis exported
+[2025-11-12 20:09:54.116958] 📥 Price history exported to price_data\all_deals_history.csv
+[LLM] Provider set to: deepseek
+[2025-11-12 20:11:10.486982] Deal evaluated: Tecknet 75% 82-Key RBG Backlit Wired Gaming Keyboard $17 @ Amazon ($17.0) → OpenAI error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-11-12 20:11:12.719250] Deal evaluated: 8.5" Inseam Hello Kitty Men's Graphic Jogger Shorts $7.66 + Free S&H w/ Walmart+ or on $35+ ($7.66) → OpenAI error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-11-12 20:11:15.301372] Deal evaluated: BEN'S ORIGINAL Ready Rice Jasmine Rice, Easy Dinner Side, 8.5 OZ Pouch (Pack of 6)~$5.53 With S&S @ Amazon ($5.53) → OpenAI error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-11-12 20:11:17.438781] Deal evaluated: Kingdom Come: Deliverance: Saga Bundle (Xbox One/Series X|S or PS4/PS5 (w/ PS+) Digital Download) $54.99 via Xbox/Microsoft or PlayStation Store ($54.99) → OpenAI error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-11-12 20:11:19.724906] Deal evaluated: Sony PlayStation Store $100 Gift Card (Email Delivery) $90 ($100.0) → OpenAI error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[LLM] Provider set to: openai
+[LLM] Provider set to: openai
+[LLM] Provider set to: openai
+[LLM] Provider set to: deepseek
+[2025-11-12 20:28:36.964241] Deal evaluated: 4-Pack ClearSpace Heavy Duty Moving Storage Bags w/ Zippers & Handles (Blue) $11.98 ($2.99 each) + Free Shipping w/ Prime or on $35+ ($11.98) → OpenAI error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-11-12 20:28:39.238403] Deal evaluated: AOVOPRO TMAX 10inch Electric Scooter 500W 22MPH Adult APP Smart Scooter Shock-absorbing Anti-skid Folding Electric Scooter for $172.15 with code - AEG30A ($172.15) → OpenAI error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-11-12 20:28:41.451580] Deal evaluated: Safeway U members offering 3 months free Uber One ($23.86) → OpenAI error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-11-12 20:28:43.805983] Deal evaluated: 5-Lbs Hershey's Nuggets Special Dark Chocolate With Almonds (Individually Wrapped) $20 + free s/h ($20.0) → OpenAI error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-11-12 20:28:46.000978] Deal evaluated: WORKPRO 48"x20" Garage Workbench,1200 LBS Load Capacity at Walmart $106 ($106.0) → OpenAI error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-11-12 20:34:41.975526] Deal evaluated: [S&S, AC] $19.92: 16 × 18.8-Oz Campbell's Chunky Soup (Beef with Country Vegetables) ($1.25 each) at Amazon ($19.92) → OpenAI error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-11-12 20:34:44.194287] Deal evaluated: Sports Research Supplements: 60-Count  D3 5000IU w/ 100mcg Vitamin K2 Vegan Softgels $7.17 w/ S&S & More + Free Shipping w/ Prime or on $35+ ($7.17) → OpenAI error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-11-12 20:34:46.417690] Deal evaluated: Seagate BarraCuda ST24000DM001 24TB 7200 RPM 512MB Cache SATA 6.0Gb/s 3.5" Internal Hard Drive Bare Drive $249.99 ($249.99) → OpenAI error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-11-12 20:34:48.608750] Deal evaluated: 5-Lbs Hershey's Nuggets Special Dark Chocolate With Almonds (Individually Wrapped) $20 + free s/h ($20.0) → OpenAI error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-11-12 20:34:50.958903] Deal evaluated: More AppleTV Anime Complete Series Sale $4.99 ($4.99) → OpenAI error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[LLM] Provider set to: openai
+[LLM] Provider set to: openai
+[2025-11-12 20:40:55.915424] Deal evaluated: Costco December 2025 Coupon Book (11/17/25 to 12/21/25) ($24.59) → OpenAI error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-11-12 20:40:58.581202] Deal evaluated: Highly Rated SLEEP MASK $3 ac/cip Q FS PRIME Amazon ($3.0) → OpenAI error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-11-12 20:41:01.066198] Deal evaluated: CyberPowerPC Gamer Supreme Gaming Desktop, AMD Ryzen 7 9800X3D, NVIDIA GeForce RTX 5070 Ti 16GB, 32GB DDR5, 2TB SSD, Black, SLC7700WST $1699 ($1699.0) → OpenAI error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-11-12 20:41:03.262330] Deal evaluated: Flashforge AD5X Multi-Color 3D Printer w/ Auto Leveling Control $235.50 + Free S/H ($235.5) → OpenAI error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-11-12 20:41:05.351757] Deal evaluated: RYOBI 18V ONE+ Cordless 7-1/4" Compound Miter Saw w/ 4.0 Ah Lithium-Ion Battery + 18V Charger $129 + Free Shipping ($129.0) → OpenAI error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[LLM] Provider set to: openai
+[LLM] Provider set to: deepseek
+[LLM] Provider set to: openai
+[LLM] Provider set to: openai
+[2025-11-12 21:01:35.571399] Deal evaluated: [S&S] $11.23*: 6-Pack Quaker Large Rice Cakes (Topper Variety Pack) at Amazon ($1.87 each) ($11.23) → OpenAI error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-11-12 21:01:37.930332] Deal evaluated: Pepperidge Farm Verona Apricot Raspberry Thumbprint Cookies, 6.75 oz. Bag~$2.01 After Coupon & S&S @ Amazon ($2.01) → OpenAI error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-11-12 21:01:40.286478] Deal evaluated: $10: TMNT Arcade: Wrath of the Mutants (Nintendo Switch) at Amazon ($10.0) → OpenAI error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-11-12 21:01:42.639389] Deal evaluated: Petlibro Polar Smart Wet Cat Food Feeder: Plastic Bowl $84.50, Stainless Steel Bowl $97.50 + Free Shipping ($84.5) → OpenAI error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-11-12 21:01:44.876278] Deal evaluated: $26.99 QUNREDA Remote Control Car, RC Cars Toys for Kids Ages 6-12, 4WD Stunt Car with LED Lights & 360° Flips, 2.4GHz, Upgraded USB-C Modular Batteries ($26.99) → OpenAI error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[LLM] Provider set to: openai
+[2025-11-12 21:05:44.672674] Deal evaluated: [AC] $11.99*: 2 × 12-Oz Chevron Techron Concentrate Plus Fuel System Cleaner ($6 each) at Amazon ($11.99) → OpenAI error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-11-12 21:05:46.893884] Deal evaluated: Samsung Galaxy Z Fold6 256GB F956U Unlocked - Excellent - 1 Yr AllState Warranty - Cellfeee via eBay $799.99 ($799.99) → OpenAI error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-11-12 21:05:49.177509] Deal evaluated: $699.99: 75″ TCL QM6K Series QD-Mini LED 4K UHD Google Smart TV at Amazon ($699.99) → OpenAI error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-11-12 21:05:51.353474] Deal evaluated: Thyme & Table 2 Pack Kind to Your Mind Blue and Tres Chic Purple Pearlized Mugs 19.9 fl oz, Stoneware - $1.99 + free ship w/ Walmart+ ($1.99) → OpenAI error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-11-12 21:05:53.749968] Deal evaluated: Lifetime 6' folding table @Costco in warehouse (B&M only) $47.99 YMMV ($47.99) → OpenAI error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[LLM] Provider set to: deepseek
+[LLM] Provider set to: gemini
+[LLM] Provider set to: deepseek
+[2025-11-12 21:08:02.999662] Deal evaluated: Travelon Packing Intelligence Pi Forget Me Not Mini Organizer (Black) $12.53 + Free Shipping w/ Prime or on $35+ ($12.53) → Gemini error: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+[2025-11-12 21:08:06.190760] Deal evaluated: Gourmia 1800W All-In-One Indoor Pizza Oven, Toaster Oven, and Air Fryer: $120 at Target ($120.0) → OpenAI error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-11-12 21:08:08.303066] Deal evaluated: $249.99*:Alienware - AW2523HF 24.5" IPS LED FHD 360Hz .5-ms FreeSync Gaming Monitor with HDR (USB, HDMI) - Dark side of the Moon ($249.99) → OpenAI error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-11-12 21:08:10.522407] Deal evaluated: More AppleTV Anime Complete Series Sale $4.99 ($4.99) → OpenAI error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-11-12 21:08:12.771866] Deal evaluated: $699.99: 75″ TCL QM6K Series QD-Mini LED 4K UHD Google Smart TV at Amazon ($699.99) → OpenAI error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[LLM] Provider set to: openai
+[2025-12-01 21:56:46.866313] 🔍 Searching for: iPhone 15
+[2025-12-01 21:57:21.071171] 🔍 Searching for: nvidia card
+[2025-12-01 21:58:03.162571] Deal evaluated: Crucial 4TB BX500 SATA III 2.5" Internal SSD $184.99 @ B&H Photo ($184.99) → Yes, this is a very good value. The Crucial BX500 is a reliable budget SATA SSD, and at **$46.25 per TB**, this price is excellent for a 4TB capacity drive. It's ideal for game storage, media libraries, or upgrading a laptop/desktop where maximum storage is the priority over top-tier NVMe speeds.
+[2025-12-01 21:58:07.601343] Deal evaluated: [S&S, AC] $4.54*: 30-Count 0.31-Oz Emergen-C Immune+ Triple Action Drink Powder (Raspberry) at Amazon ($4.54) → Based on typical pricing, **yes, this is a good value.**
+
+*   The standard price for a 30-count pack is often $7–$9.
+*   At **$4.54**, it's roughly **40–50% off**, which is a significant discount for a trusted brand.
+*   The price per packet comes to about **$0.15**, which is excellent.
+
+**Verdict:** A strong deal if you use this product.
+[2025-12-01 21:58:11.340510] Deal evaluated: $5.99*:CAT Construction Toys, Power Haulers 2.0 Dump Truck(12.25 x 6.25 x 7 inches) ($5.99) → Based on typical pricing for construction toys of that size, **$5.99 is an excellent value** if the quality is decent. Brand-name trucks of similar dimensions often cost $15-$25. Just note the asterisk (*) — confirm this is the final price and not a limited-time or conditional offer.
+[2025-12-01 21:58:14.025194] Deal evaluated: 6-Quart Instant Pot Duo Plus Multi-Use Pressure Cooker w/ Whisper-Quiet Steam Release $70 @ Amazon ($70.0) → Yes, this is a good value. The Instant Pot Duo Plus typically retails for $100-$130. At $70, it's a solid discount for a versatile and popular 6-quart model with useful features.
+[2025-12-01 21:58:17.553274] Deal evaluated: Poly and Bubble Mailers (Various Sizes) - Now FREE after MENARDS Mail-In-Rebate for Merchandise Credit on future purchases) ($21.62) → No, it's not a good value. You are paying $21.62 upfront and only getting a merchandise credit for a future purchase at Menards, not cash back. You are essentially giving Menards an interest-free loan and locking yourself into shopping there again. The "free" claim is misleading.
+[2025-12-01 22:00:56.525234] RAG Q: give me the best choice in the content in fetch detail.
+ → Based on the deals provided, the **Crucial 4TB SSD at $184.99** is the best choice for its high storage capacity and significant value for money.
+[2025-12-01 22:01:18.717407] 📊 3D plot generated.
+[2025-12-01 22:02:11.342534] 📥 Price history exported to price_data\all_deals_history.csv
+[2025-12-01 22:15:48.320988] Deal evaluated: save 40% with CitiThankYou points @ Amazon, YMMV, max discount $50 ($50.0) → Gemini error: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+[2025-12-01 22:15:48.643925] Deal evaluated: Nintendo switch 2 console Mario Kart World Bundle $449 at Walmart ($449.0) → Gemini error: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+[2025-12-01 22:15:49.004631] Deal evaluated: MP2 Racing Simulator Motion Platform 2-Axis-MOVER-PRO - $2974 + Shipping ($2974.0) → Gemini error: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+[2025-12-01 22:15:49.365578] Deal evaluated: 8-Qt Instant Pot Pro 10-in-1 Pressure Cooker (Matte Black) $110.49 + Free Shipping ($110.49) → Gemini error: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+[2025-12-01 22:15:49.814772] Deal evaluated: Space Adventure Cobra: The Awakening (PS5, Physical) $24.99 + Free Shipping w/ Prime or on $35+ ($24.99) → Gemini error: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+[2025-12-01 22:15:53.668519] 🔍 Searching for: iPhone
+[2025-12-01 22:16:01.946768] Found: Lisen Magnetic Apple MagSafe Car Phone Mount (for iPhone 12 &amp; up) $5.19 ($5.19)
+[2025-12-01 22:16:02.313737] Found: Fntcase iPhone 17 Pro Clear Magnetic Transparent Case $3.16 ($3.16)
+[2025-12-01 22:16:02.315474] ✅ Search completed: 2 results
+[2025-12-01 22:21:43.684763] Deal evaluated: [YMMV, AC] $16.59: Gerber TRI-Tip Mini Cleaver Fixed Blade w/ Sheath, Black at Amazon ($16.59) → Gemini error: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+[2025-12-01 22:21:44.216446] Deal evaluated: $80: $100 Academy Sports + Outdoors eGift Card - Email Delivery at Amazon ($80.0) → Gemini error: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+[2025-12-01 22:21:44.582856] Deal evaluated: Nintendo switch 2 console Mario Kart World Bundle $449 at Walmart ($449.0) → Gemini error: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+[2025-12-01 22:21:45.029893] Deal evaluated: S25 ultra 512gb EDU any color $777.74 ($777.74) → Gemini error: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+[2025-12-01 22:21:45.427400] Deal evaluated: YMMV - Google TV Streamer (4K) via Uber Eats Offer and BestBuy with Uber One ~$63 ($63.0) → Gemini error: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+[2025-12-01 22:23:53.937811] 🔍 Fetching deals for keyword: iphone
+[2025-12-01 22:32:18.955980] 🔍 Fetching deals for keyword: iPhone
+[2025-12-01 22:32:36.671357] Deal evaluated: Apple iPhone 16 Pro 256GB Unlocked Excellent Condition $599.19 ($599.19) → Yes, that deal seems like a good value considering it is an Apple iPhone 12 Pro with 256GB of storage, unlocked, and in excellent condition for $599.19.
+[2025-12-01 22:32:39.104173] Deal evaluated: Lisen Magnetic Apple MagSafe Car Phone Mount (for iPhone 12 &amp; up) $5.19 ($5.19) → Yes, the Lisen Magnetic Apple MagSafe Car Phone Mount priced at $5.19 is a good value, as it is specifically designed for iPhone 12 and up, and offers the convenience of MagSafe technology for a reasonable price.
+[2025-12-01 22:32:41.337118] 🔧 Corrected deal: Fntcase iPhone 17 Pro Clear Magnetic Transparent Case $3.16 (Reason: Low price item ($3.16) with inflated estimate ($60.51))
+[2025-12-01 22:32:41.353313] Deal evaluated: Fntcase iPhone 17 Pro Clear Magnetic Transparent Case $3.16 ($3.16) → Yes, the Fntcase iPhone 17 Pro Clear Magnetic Transparent Case priced at $3.16 is a good value. It is an affordable option to protect your phone and has additional features like being clear and magnetic.
+[2025-12-01 22:32:54.872150] 🔍 Fetching deals for keyword: food
+[2025-12-01 22:33:06.141384] Deal evaluated: MEGAWISE Vacuum Sealer Machine $15.57 +FS w/Prime or on $35+ ($15.57) → Yes, based on the price of $15.57 with free shipping for Prime members or on orders over $35, the MEGAWISE Vacuum Sealer Machine seems to be a good value. It's affordable and offers free shipping options, making it a budget-friendly purchase.
+[2025-12-01 22:33:09.035566] Deal evaluated: LSA Apparel 75kpa Food Vacuum Sealer Machine $13.99 ($13.99) → Based solely on the price of $13.99 for the LSA Apparel 75kpa Food Vacuum Sealer Machine, it seems like a very good deal. Vacuum sealers can typically be quite expensive, so getting one for under $15 is a great value.
+[2025-12-01 22:33:11.464912] Deal evaluated: Rubbermaid Food Storage Containers (26-Piece) $7.97 ($7.97) → Yes, this deal for Rubbermaid Food Storage Containers (26-Piece) for $7.97 is a very good value. This price works out to be less than $0.31 per container, making it a great deal for stocking up on food storage containers.
+[2025-12-01 22:33:33.150400] 🔍 Searching for: iPhone
+[2025-12-01 22:33:43.122820] Deal evaluated: Lisen Magnetic Apple MagSafe Car Phone Mount (for iPhone 12 &amp; up) $5.19 ($5.19) → Yes, the Lisen Magnetic Apple MagSafe Car Phone Mount priced at $5.19 is a good value, especially for iPhone 12 and newer models which are compatible with MagSafe technology. This is a reasonable price for a specific and useful product.
+[2025-12-01 22:33:43.931048] 🔧 Corrected deal: Fntcase iPhone 17 Pro Clear Magnetic Transparent Case $3.16 (Reason: Low price item ($3.16) with inflated estimate ($60.51))
+[2025-12-01 22:33:43.942203] Deal evaluated: Fntcase iPhone 17 Pro Clear Magnetic Transparent Case $3.16 ($3.16) → Yes, the Fntcase iPhone 17 Pro Clear Magnetic Transparent Case priced at $3.16 is a good value considering it is affordable for a phone case with good features like being transparent and magnetic.
+[2025-12-01 22:33:43.944283] ✅ Search completed: 2 results
+[2025-12-01 22:48:30.701538] 🔍 Fetching deals for keyword: iPhone
